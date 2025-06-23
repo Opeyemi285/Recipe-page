@@ -5,6 +5,7 @@ body {
     padding: 0;
     margin: 0;
     background-color: hsl(30, 18%, 87%);
+    font-family: 'Young serif', 'Outfit';
 }
 section {
     width: 50%;
